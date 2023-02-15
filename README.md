@@ -21,3 +21,6 @@ _underscore on both end will be italic_
 **two asterisk at both end** will become stong or bold text
 
 __two underscore at both end__ will become stong or bold text
+
+<!--cross out-->
+two tilde (~) at both end will make ~~strikethrough~~
