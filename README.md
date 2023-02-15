@@ -11,4 +11,4 @@ Markdown Cheat-sheet
  
 ---
 
-_underscore will be italic
+_underscore on both end will be italic_
