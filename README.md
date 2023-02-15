@@ -30,5 +30,8 @@ two tilde (~) at both end will make ~~strikethrough~~
 
 <!--exape character rule using back slas-->
 
-This is sample of **italic \text**
+This is sample of *italic \text*
+
+<!--blockquote rule-->
+> greater than sign will make blockquote
 
