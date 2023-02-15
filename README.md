@@ -7,7 +7,7 @@ Markdown Cheat-sheet
 ###### H6
 
 - (-) will make bullet
-- (---) will make <hr>
+- (3x -) will make <hr>
  
 ---
 
