@@ -7,7 +7,7 @@ Markdown Cheat-sheet
 ###### H6
 
 - (-) will make bullet
-- (3x -) will make <hr>
+- (3x - or 3_) will make horizontal rules
  
 ---
 <!--italic-->
@@ -24,3 +24,7 @@ __two underscore at both end__ will become stong or bold text
 
 <!--cross out-->
 two tilde (~) at both end will make ~~strikethrough~~
+
+<!-- horizontal rule-->
+3hypens will make horizontal tule '''
+
