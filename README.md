@@ -28,3 +28,7 @@ two tilde (~) at both end will make ~~strikethrough~~
 <!-- horizontal rule-->
 3hypens will make horizontal tule '''
 
+<!--exape character rule using back slas-->
+
+This is sample of **italic \text**
+
