@@ -11,4 +11,4 @@ Markdown Cheat-sheet
  
 ---
 
-_(_) will be italic
+_(under_score) will be italic
