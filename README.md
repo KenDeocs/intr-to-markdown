@@ -6,8 +6,8 @@ Markdown Cheat-sheet
 ##### H5
 ###### H6
 
--(-) will make bullet
--(---) will make <hr>
+- (-) will make bullet
+- (---) will make <hr>
  
 ---
 
