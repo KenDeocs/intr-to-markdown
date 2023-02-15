@@ -10,7 +10,14 @@ Markdown Cheat-sheet
 - (3x -) will make <hr>
  
 ---
-
+<!--italic-->
 _underscore on both end will be italic_
 
 *or two asterisk on both end will be italic*
+
+---
+
+<!--strong-->
+**two asterisk at both end** will become stong or bold text
+
+__two underscore at both end__ will become stong or bold text
