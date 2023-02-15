@@ -12,3 +12,5 @@ Markdown Cheat-sheet
 ---
 
 _underscore on both end will be italic_
+
+*or two asterisk on both end will be italic*
